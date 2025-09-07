@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Seek Beyond Realty AI Video Generator",
+  "description": "A web application for Seek Beyond Realty's marketing team to generate promotional videos using AI. Users can input a description, which is then refined into a detailed prompt to generate a cinematic video featuring a custom company avatar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
